@@ -5,4 +5,7 @@ print("Pandas Version: ", pd.__version__)
 
 # DO fancy stuffs with python
 
-print(f"Job successfully completed on {sys.argv[1]}")
+
+# print(f"Job successfully completed on {sys.argv[1]}")
+
+print("Job Successfully finished!!!")
