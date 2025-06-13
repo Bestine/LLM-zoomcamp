@@ -1,2 +1,2 @@
-# data-engineering-zoomcamp
-This course is used to learn Data Engineering 
+# LLM-zoomcamp
+This course is used to learn Large Language Models
